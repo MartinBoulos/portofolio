@@ -1,0 +1,79 @@
+.paraImg{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  pointer-events: none;
+  transition: 0.45s cubic-bezier(.12,.45,.16,1);
+}
+.img1{
+  /* width: 200%;
+  top: 62.58%;
+  left: 50%; */
+  width: 200%;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
+}
+.img2{
+  width: 75%;
+  /* width: 68.6%; */
+  top: 52.74%;
+  left: 23.54%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.img3{
+  width: 120%;
+  /* width: 57.53%; */
+  top: 68%;
+  left: 33.89%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.img4{
+  width: 25%;
+  /* width: 16.74%; */
+  top: 59.9%;
+  left: 2.3%;
+  transform: translate(-50%, -50%);
+  z-index: 3;
+}
+.img5{
+  width: 75%;
+  /* width: 68.32%; */
+  top: 62.71%;
+  left: 70.29%;
+  transform: translate(-50%, -50%);
+  z-index: 4;
+}
+.img6{
+  width: 120%;
+  top: 102.06%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 6;
+}
+.img7{
+  width: 51.55%;
+  top: 80.92%;
+  left: 21.03%;
+  transform: translate(-50%, -50%);
+  z-index: 7;
+}
+.img8{
+  width: 120%;
+  top: 104.47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 8;
+}
+.img9{
+  width: 86.32%;
+  top: 92.33%;
+  left: 61.92%;
+  transform: translate(-50%, -50%);
+  z-index: 9;
+}

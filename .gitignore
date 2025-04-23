@@ -1,0 +1,13 @@
+node_modules/
+.npm
+.yarn
+
+.next/
+dist/
+build/
+
+.env
+.env.local
+.DS_Store
+.vscode/
+*.log
