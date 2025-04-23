@@ -338,7 +338,7 @@ function Home() {
             <Image
               className='portoImg'
               src={"./images/image_50459649.jpg"}
-              alt={`image`}
+              alt={`Martin Boulos Image`}
               width={3024/2}
               height={4032/2}
             />
