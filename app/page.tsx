@@ -337,13 +337,8 @@ function Home() {
           <MagneticImage dragginess="20">
             <Image
               className='portoImg'
-<<<<<<< HEAD
-              src={"./images/image_50459649.jpg"}
-              alt={`Martin Boulos Image`}
-=======
               src={"./images/image_50459649.JPG"}
               alt={`image`}
->>>>>>> 2f170be (updating page.tsx again)
               width={3024/2}
               height={4032/2}
             />
